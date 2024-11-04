@@ -8,7 +8,7 @@ const VoitureList = () => {
       matricule: "X45/6789",
       marque: "Mercedes",
       model: "A Class",
-      image: "./public/Mercedes.jpeg",
+      image: "../public/Mercedes.jpeg",
       carburant: "essence",
       color: "",
       prixAchat: 10000,
