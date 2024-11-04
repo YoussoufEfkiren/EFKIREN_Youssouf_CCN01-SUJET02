@@ -17,7 +17,7 @@ const VoitureList = () => {
       matricule: "Z12/3456",
       marque: "Audi",
       model: "A1",
-      image: "./public/Audi.jpeg",
+      image: "https://raw.githubusercontent.com/YoussoufEfkiren/EFKIREN_Youssouf_CCN01-SUJET02/refs/heads/main/public/Audi.jpeg",
       carburant: "diesel",
       color: "",
       prixAchat: 9000,
