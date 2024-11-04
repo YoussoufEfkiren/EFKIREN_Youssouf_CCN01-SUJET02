@@ -66,7 +66,7 @@ const VoitureList = () => {
 
   return (
     <div className="container">
-      <h2 className="my-4">Liste des Voitures</h2>
+      <h2 className="my-4">Liste des Voitures ( Sujet 02 )</h2>
       <div className="row">
         {data.map((voiture, index) => (
           <div className="col-md-3 mb-4" key={index}>
